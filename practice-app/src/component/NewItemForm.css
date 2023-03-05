@@ -1,0 +1,57 @@
+.all{
+    background-color: #272b33;
+    padding-top: 10px; 
+}
+.text{
+    text-align: left;
+    margin-left: 20px;
+}
+h1{
+    font-family: 'Golos Text', sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: 'Golos Text', sans-serif;
+}
+.cousin{
+    display: flex;
+    background-color: #3c3e44;
+    width : 40%;
+    height : 250px;
+    margin-top: 80px;
+    margin-left: 80px; 
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    color : white;
+}
+.pic{
+    height : 100% ;
+    border-top-left-radius: 15px ;
+    
+}
+.add{
+    padding : 10px 15% 10px 15%;
+    margin-right: 49.5%;
+    background-color:#3c3e44 ;
+    color: white;
+    border-top: 1px solid gray;
+    border-left: none;
+    border-right: none;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 30px;
+    font-family:  'Golos Text', sans-serif;
+    font-size: 20px;
+}
+button:hover{
+    background-color:rgb(192, 192, 195) ; 
+}
+.location{
+    color : gray;
+}
+#my-tooltip{
+    font-family:  'Golos Text', sans-serif;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
